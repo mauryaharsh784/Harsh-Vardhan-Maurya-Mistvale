@@ -57,6 +57,7 @@ Users can:
 10. Check shipping information.
 11. Validate pincode.
 12. Continue through checkout.
+   - -------------------
 🧪 Testing & QA
 The final implementation was tested for:
 - Product search
@@ -81,6 +82,7 @@ QA Results
 - SEO: 100
 - axe-core: 0 accessibility violations across tested viewport runs
 Environment-specific limitations and unverified checks are documented in NOTES.md.
+----------
 🤖 AI-Assisted Development
 Claude was used during development for:
 - Code implementation
@@ -91,12 +93,15 @@ Claude was used during development for:
 - QA verification
 - Documentation
 The complete prompt history is documented in PROMPTS.md.
+-----------
 📌 Project Goal
 The goal was to improve the provided Mistvale Tea Co. e-commerce experience by creating a smoother, reliable, responsive, and accessible shopping flow while maintaining the supplied business rules and content.
+---------
 👨‍💻 Developer
 Harsh Vardhan Maurya
 B.Tech — Computer Science Engineering
 ABES Engineering College
+--------
 Skills
 - JavaScript
 - TypeScript
